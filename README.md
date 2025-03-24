@@ -1,7 +1,7 @@
 # Arduino-Project
 This is repo whrer i Make Project About Arduino And Stuff
 # Programming Lanaguge
-- C, C++
+- C/C++
 # Credits
 - Programmer : MawinCK
 # Helper
