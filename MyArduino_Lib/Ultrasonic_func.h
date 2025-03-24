@@ -9,7 +9,7 @@
 #ifndef ULTRASONIC_FUNC_H
 #define ULTRASONIC_FUNC_H
 
-// Setting
+// Setting, You can Freely Change Setting of the Config
 const uint8_t DelayM = 10;
 #define SOUND_SPEED_CM_PER_US 0.0351; 
 
